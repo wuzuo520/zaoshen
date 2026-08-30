@@ -2,7 +2,6 @@
   "name": "造神计划",
   "short_name": "造神计划",
   "description": "我的个人成长工作台：AI 小助手「小神」+ 记忆 + 认知体系 + 攒钱记账 + 健身 + 美食 + 读书 + 英语",
-  "id": "/zaoshen-plan/",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
